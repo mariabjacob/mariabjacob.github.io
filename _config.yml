@@ -9,26 +9,26 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Maria's Research Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Maria Binu Jacob"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mariabjacob.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mariabjacob/mariabjacob.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : 
   name             : "Maria Binu Jacob"
   pronouns         : "she/her"  
   bio              : "PhD Aspirant | Pharmacology | Drug Discovery | Neuroscience"
   location         : "Kerala, India"
   employer         : "Amrita Vishwa Vidyapeetham"
-  uri              : # URL
+  uri              : ""
   email            : "maria.binu.jacob@gmail.com" 
 
   # Academic websites
