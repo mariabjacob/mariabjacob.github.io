@@ -22,6 +22,7 @@ repository               : "mariabjacob/mariabjacob.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  avatar           : "profile.png"
   name             : "Maria Binu Jacob"
   pronouns         : "she/her"  
   bio              : "PhD Aspirant | Pharmacology | Drug Discovery | Neuroscience"
