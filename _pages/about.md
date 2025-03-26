@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, my name is Maria!"
+title: "Hi! I'm Maria!"
 author_profile: true
 redirect_from: 
   - /about/
